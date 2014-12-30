@@ -36,6 +36,7 @@ class ViewController: UIViewController {
     var betTitleLabel: UILabel!
     var winnerPaidTitleLabel: UILabel!
     
+    // Constants
     let kMarginForView: CGFloat = 10.0
     let kSixth: CGFloat = 1.0/6.0
     let kThird: CGFloat = 1.0/3.0
